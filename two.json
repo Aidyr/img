@@ -581,7 +581,7 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#FF005D"
     },
     "background": {
-        "blur": 0.05,
+        "blur": 0.3,
         "url": "https://github.com/Aidyr/img/blob/main/141396763_p0.png?raw=true"
     },
     "plus": {
